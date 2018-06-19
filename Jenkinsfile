@@ -1,9 +1,5 @@
  pipeline {
-    agent {
-        docker {
-            echo "I am in bash" 
-        }
-    }
+    agent any
     stages {
         stage('Build') { 
             steps {
