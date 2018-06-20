@@ -12,12 +12,6 @@ public class App
 
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
-      System.out.println("jenkinse");
-      System.out.println("hello");
-      System.out.println("mahmoud");
-      System.out.println("mahmoud");
-      System.out.println("ahmed");
-      System.out.println("saad");
     }
 
     private final String getMessage() {
