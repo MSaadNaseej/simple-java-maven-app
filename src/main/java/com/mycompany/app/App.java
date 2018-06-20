@@ -14,6 +14,7 @@ public class App
         System.out.println(new App().getMessage());
       System.out.println("jenkinse");
       System.out.println("hello");
+      System.out.println("mahmoud");
     }
 
     private final String getMessage() {
