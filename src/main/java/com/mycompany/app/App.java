@@ -12,7 +12,7 @@ public class App
 
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
-        // test jenkinse
+        System.out.println("new failue test");
     }
 
     private final String getMessage() {
